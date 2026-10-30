@@ -1,0 +1,20 @@
+Student_ID,Name,Age,Study_Hours,Attendance,Marks,Department,Result,Attendance_Status,Study_Category
+101,Aarav,20,4.5,90.0,85.0,CSE,Pass,Good Attendance,High
+102,Diya,21,3.0,80.0,72.0,ECE,Pass,Good Attendance,Medium
+103,Kabir,19,2.0,65.0,58.0,CSE,Pass,Low Attendance,Low
+104,Meera,20,5.0,95.0,92.0,IT,Pass,Good Attendance,High
+105,Rohan,22,3.5,70.0,64.0,ECE,Pass,Low Attendance,Medium
+106,Anaya,21,4.0,84.5,78.0,IT,Pass,Good Attendance,Medium
+107,Ishaan,20,1.5,60.0,45.0,CSE,Pass,Low Attendance,Low
+108,Sara,19,3.5,88.0,81.0,IT,Pass,Good Attendance,Medium
+109,Vivaan,22,2.5,75.0,79.5,ECE,Pass,Good Attendance,Medium
+110,Myra,20,6.0,98.0,96.0,CSE,Pass,Good Attendance,High
+111,Arjun,21,3.0,82.0,70.0,IT,Pass,Good Attendance,Medium
+112,Kiara,19,4.5,91.0,89.0,ECE,Pass,Good Attendance,High
+113,Reyansh,20,2.0,68.0,55.0,CSE,Pass,Low Attendance,Low
+114,Aadhya,22,5.5,96.0,94.0,IT,Pass,Good Attendance,High
+115,Dev,21,3.5,78.0,67.0,ECE,Pass,Good Attendance,Medium
+116,Saanvi,20,4.0,87.0,83.0,IT,Pass,Good Attendance,Medium
+117,Atharv,19,1.0,55.0,42.0,CSE,Pass,Low Attendance,Low
+118,Pari,21,3.5,89.0,88.0,ECE,Pass,Good Attendance,Medium
+119,Advik,20,5.0,93.0,91.0,IT,Pass,Good Attendance,High
